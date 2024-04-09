@@ -17,4 +17,25 @@
 
 
 
+
+
+Google playsore data
+
+AGENDA:
+
+we have google playstore dataset containing information of different apps installed rating and versions and other details and we are going to do analysis based on the data we have
+
+1. find out TOP 10 reviews given to the apps
+
+2. Top 10 installs apps
+
+3. Category wise distribution of installed apps
+
+4. Top paid apps
+
+
+
+
+
 #Databricks #PySpark #BigData #DataAnalytics #DataScience #MachineLearning #AI
+
