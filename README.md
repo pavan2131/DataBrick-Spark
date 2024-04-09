@@ -19,7 +19,7 @@
 
 
 
-Google playsore data
+Exploratory Data Analysis - Google playsore data
 
 AGENDA:
 
